@@ -1,0 +1,8 @@
+{
+  "name": "Spotify+Sonos",
+  "country": "DE",
+  "render_readme": false,
+  "domains": [
+    "media_player"
+  ]
+}
